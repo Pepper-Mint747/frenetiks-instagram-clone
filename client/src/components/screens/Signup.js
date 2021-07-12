@@ -14,7 +14,7 @@ const SignIn = () => {
         if (url) {
             uploadFields()
         }
-    }, [url,uploadFields])
+    }, [url,])
 
     const uploadPic = () => {
         const data = new FormData()
