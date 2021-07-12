@@ -2,7 +2,7 @@
 
 #### [Live Site](https://frenetiks-instagram-clone.herokuapp.com/)
 
-![istagram](https://i.ibb.co/zsqTgTf/sp.png)
+![istagram](https://i.ibb.co/zsqTgTf/sp.pn)
 
 ### Introduction
 This is the code repository for my instagram clone built using NodeJs, ExpressJs, and JavaScript.
